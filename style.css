@@ -5,13 +5,20 @@ body {
 	display: flex;
 	justify-content: space-between;
 }
-.right-side-nav {
+.right-nav {
 	display: flex;
-	justify-content: space-between;
+}
+.nav-item {
+	font-family: fantasy;
 }
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 70%;
+}
+
+.slide-show {
+	margin-top: 70px;
+	border: 5px groove aquamarine;
 }
